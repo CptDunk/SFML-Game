@@ -12,6 +12,11 @@ Otherwise you can also take out the source .cpp/.hpp files and compile them in y
  - Change enemy sprites based on their altitude</br>
  - Make more sophisticated spawning mechanic</br>
  - Tweak out all the unbalanced "features"(fuel spawning too close, altitude gain is not equivalent to the speed of the craft, etc..)</br>
+ - Definitely add animation for both player and enemy sprites(moving rocket without flame coming out of the nozzle is weird)
  
  # My thoughts on this project
  The final product is horendous, but i learned a thing or two(more like 19) that i would do differently next time that would make the code actualy viable and save me a lot of time.
+# Some screenshots of the "game"
+![Screenshot of the game](/documentation/Mountain_Shot.png)
+![Another screenshot of the game](/documentation/Bing_Chilling.png)
+![Game Over screen](/images/Game_Over.png)
