@@ -19,4 +19,4 @@ Otherwise you can also take out the source .cpp/.hpp files and compile them in y
 # Some screenshots of the "game"
 ![Screenshot of the game](/documentation/Mountain_Shot.png)
 ![Another screenshot of the game](/documentation/Bing_Chilling.png)
-![Game Over screen](/images/Game_Over.png)
+![Game Over screen](/documentation/Game_Over.png)
